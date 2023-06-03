@@ -3,6 +3,5 @@ public class Main {
 
         System.out.println("test github");
         System.out.println("Simenko_git");
-        System.out.println("this is my story of life ");
     }
 }
